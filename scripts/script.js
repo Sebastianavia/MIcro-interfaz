@@ -126,10 +126,10 @@ function modificarDisplay() {
 }
 /*
 Funciones para hacer el llamado a las apis para realizar
-las operaciones marcadas
+las operaciones marcadas 
 */
 function obtenerSuma(val1, val2) {
-  var url = "http://calculadora/suma/api/suma";
+  var url = "http://suma.default.svc.cluster.local:3030/api/suma";
 
   fetch(url, {
     method: "POST",
