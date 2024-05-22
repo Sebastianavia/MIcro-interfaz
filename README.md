@@ -11,6 +11,7 @@ obtenerResultado:
 
 Captura el segundo número y realiza la operación marcada.
 Actualiza la pantalla con el resultado.
+
 realizarOperacion:
 
 Determina qué operación se debe realizar (suma, resta, multiplicación, división) y llama a la función correspondiente para obtener el resultado desde el microservicio.
