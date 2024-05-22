@@ -5,6 +5,9 @@ Este código JavaScript es parte de una interfaz de calculadora que realiza oper
 
 Funciones de Operación (sumar, restar, multiplicar, dividir):
 
+
+
+
 Cada función captura el primer y segundo número de la pantalla y llama a realizarOperacion para ejecutar la operación correspondiente.
 Actualiza la interfaz para mostrar la operación actual y prepara la pantalla para el siguiente número.
 obtenerResultado:
