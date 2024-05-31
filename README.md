@@ -44,3 +44,4 @@ Indica que el contenedor expondrá el puerto 80, el puerto estándar para HTTP.
 CMD ["nginx", "-g", "daemon off;"]:
 
 Configura Nginx para que se ejecute en primer plano (no como un demonio), lo cual es necesario para que Docker mantenga el contenedor en ejecución.
+  
